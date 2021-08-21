@@ -184,6 +184,7 @@
 #define EGL_LIB "libEGL.so"
 #define GLES1_LIB "libGLESv1_CM.so"
 #define GLES2_LIB "libGLESv2.so"
+#define OPENGL_LIB "libOpenGL.so.0"
 #elif defined(_WIN32)
 #define EGL_LIB "libEGL.dll"
 #define GLES1_LIB "libGLES_CM.dll"
